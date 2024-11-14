@@ -3,14 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-/**
- * Módulo: Tópicos Avanzados de programación.
- * Reto 1. UML y eventos.
- * Nombre: Félix Jhosel Peñaloza Ruiz.
- * Matrícula: 23020865.
- * Asesor: Andrés Espinal Jiménez.
- */
-
 public class Calculadora extends JFrame implements ActionListener {
     private JTextField display;
     private JButton[] btnNumeros;
